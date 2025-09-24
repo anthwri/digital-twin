@@ -1,0 +1,27 @@
+{
+    "full_name": "Anthony Wright",
+    "name": "Anthony",
+    "current_role": "Senior Lead Developer at Envirosuite",
+    "location": "Melbourne, Australia",
+    "email": "anthony.wright.dev@gmail.com",
+    "linkedin": "linkedin.com/in/tonywright/",
+    "specialties": [
+      ".NET 8",
+      "C#",
+      "Cloud Deployment",
+      "DevOps"
+    ],
+    "years_experience": 30,
+    "education": [
+      {
+        "degree": "Bachelor of Applied Science (Computer Science)",
+        "institution": "RMIT University",
+        "year": "1993"
+      },
+      {
+        "degree": "Master of Engineering (Open Systems)",
+        "institution": "Swinburne University",
+        "year": "1998"
+      }
+    ]
+  }

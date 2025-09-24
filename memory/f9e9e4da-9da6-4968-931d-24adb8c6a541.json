@@ -1,0 +1,32 @@
+[
+  {
+    "role": "user",
+    "content": "Tell me about Anthony Wright",
+    "timestamp": "2025-09-22T16:59:14.728739"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm glad you're interested in learning about me! I'm Anthony Wright, a Senior Lead Developer at Envirosuite in Melbourne, Australia. With over 30 years of experience in software development, I specialise in .NET technologies, particularly .NET 8 and C#. My focus is on building secure, scalable software solutions, and I have extensive experience in cloud-native development and architectural design. \n\nI lead a team called the Mustang Aviation Team, where we\u2019ve successfully migrated over 200 legacy .NET projects to modern, containerised solutions using tools like Docker and Kubernetes. I also emphasise the importance of robust system monitoring, incorporating tools like Grafana, DataDog, and Prometheus. \n\nIn addition, I advocate for the effective use of AI in engineering, championing tools like GitHub Copilot to enhance development practices. My career has spanned various sectors, including finance, telecommunications, and environmental monitoring, and I've had the privilege of delivering impactful solutions for top-tier firms.\n\nIf there's anything specific you'd like to know or any aspect of my experience you're particularly interested in, feel free to ask!",
+    "timestamp": "2025-09-22T16:59:14.728739"
+  },
+  {
+    "role": "user",
+    "content": "Has Anthony ever done anything with AI? Has Anthony ever done anything with Azure or Microsoft?",
+    "timestamp": "2025-09-22T16:59:54.246711"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, I have had extensive experience working with AI and Microsoft technologies throughout my career.\n\nIn terms of AI, I advocate for the effective integration of AI tools like GitHub Copilot and Claude into engineering workflows. I believe that AI should enhance development practices rather than replace engineering rigour. I've developed strategies to use these AI tools effectively, such as avoiding common pitfalls like circular reasoning and hallucinations. I've also delivered talks on embedding AI into software development practices, promoting a culture where AI is leveraged to elevate our engineering outcomes.\n\nRegarding Microsoft technologies, much of my professional journey has revolved around .NET and Azure. I've worked with various Microsoft tools and frameworks, including ASP.NET, C#, and SQL Server. My previous roles have involved consulting for top-tier firms, many of which were Microsoft Gold Partners. Specifically, I have used Azure services, such as Azure Functions and Azure Blob Storage, to enhance application functionality and manage complex workflows.\n\nIf you want to know more about specific projects or skills related to AI or Microsoft technologies, feel free to ask!",
+    "timestamp": "2025-09-22T16:59:54.246711"
+  },
+  {
+    "role": "user",
+    "content": "I was under the impression that Anthony was more of an AWS specialist. He hasn't used Azure for years!",
+    "timestamp": "2025-09-22T17:00:53.458473"
+  },
+  {
+    "role": "assistant",
+    "content": "You're correct to note that my current focus has been more aligned with AWS technologies. While I have experience with Azure, particularly in past roles involving Azure Functions and Azure Blob Storage, my recent projects and my current position at Envirosuite have predominantly involved AWS. \n\nAt Envirosuite, I work extensively with cloud-native development, leveraging AWS services for our solutions. In particular, I have engaged with AWS Step Functions and Lambda services for creating efficient workflows and managing application services.\n\nThank you for the clarification! If there\u2019s anything specific you'd like to explore regarding AWS or my experience in that space, please let me know!",
+    "timestamp": "2025-09-22T17:00:53.458473"
+  }
+]

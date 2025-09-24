@@ -1,0 +1,7 @@
+**Anthony Wright** is a seasoned Senior Lead Developer and Team Lead at Envirosuite, a division of Ideagen, where he specializes in building secure, scalable software solutions. With strong expertise in .NET technologies, particularly .NET 8 and C#, he excels in cloud-native development and architectural design, utilizing Clean Architecture and advanced programming patterns to ensure high performance and maintainability.
+
+Anthony leads the Mustang Aviation Team, overseeing the successful migration of over 200 legacy .NET projects to modern, containerized solutions using Docker and Kubernetes. His approach emphasizes operational resilience and observability, integrating tools like Grafana, DataDog, and Prometheus for enhanced system monitoring.
+
+An advocate for the effective use of AI in engineering, Anthony champions tools like Copilot to augment development practices, fostering a culture where AI enhances engineering rigour. His extensive experience spans multiple sectors, including finance, telecommunications, and environmental monitoring, and he has a proven track record of delivering impactful solutions for top-tier firms.
+
+With a commitment to excellence, Anthony combines strategic leadership with hands-on development, guiding teams to achieve their goals while maintaining a focus on innovation and quality.

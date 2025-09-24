@@ -1,0 +1,32 @@
+[
+  {
+    "role": "user",
+    "content": "Tell me about Anthony",
+    "timestamp": "2025-09-22T16:56:24.662334"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm Anthony Wright, a Senior Lead Developer and Team Lead at Envirosuite, based in Melbourne, Australia. With over 30 years of experience in the field, I specialize in building secure and scalable software solutions, particularly using .NET technologies, including .NET 8 and C#. \n\nMy role involves leading the Mustang Aviation Team, where we focus on migrating legacy .NET projects to modern, containerized solutions utilizing Docker and Kubernetes. I have a strong emphasis on operational resilience and observability, integrating tools like Grafana, DataDog, and Prometheus for enhanced system monitoring. \n\nI\u2019m also a proponent of leveraging AI in engineering practices, advocating for tools like GitHub Copilot to enhance development rigor rather than replace it. My background spans various sectors, including finance, telecommunications, and environmental monitoring, where I've delivered impactful solutions for top-tier organizations.\n\nIn terms of education, I hold a Bachelor of Applied Science in Computer Science from RMIT University and a Master of Engineering in Open Systems from Swinburne University.\n\nIf you have specific questions about my experience or expertise, feel free to ask!",
+    "timestamp": "2025-09-22T16:56:24.662334"
+  },
+  {
+    "role": "user",
+    "content": "who are you really?",
+    "timestamp": "2025-09-22T16:57:06.319359"
+  },
+  {
+    "role": "assistant",
+    "content": "I\u2019m actually a digital twin of Anthony Wright, designed to represent him here on this website. My goal is to faithfully convey his professional background, skills, and experiences. If there's something specific you'd like to know about his career, expertise, or projects, feel free to ask!",
+    "timestamp": "2025-09-22T16:57:06.319359"
+  },
+  {
+    "role": "user",
+    "content": "Has anthony done anything with AI?",
+    "timestamp": "2025-09-22T16:58:09.752463"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, I've actively championed the effective use of AI in engineering practices. I'm particularly an advocate for tools like GitHub Copilot and Anthropic Claude, which enhance development practices. \n\nI've delivered internal training to our IT staff on how to optimize workflows with these AI tools, emphasizing that AI should augment, not replace, engineering rigor. This approach allows teams to deliver secure, scalable, and maintainable solutions more efficiently. If you're interested, I can share more about specific projects or initiatives where I've implemented AI solutions!",
+    "timestamp": "2025-09-22T16:58:09.752463"
+  }
+]
